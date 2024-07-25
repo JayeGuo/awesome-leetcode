@@ -1,2 +1,2 @@
 # awesome-leetcode
-解题思路详解
+主要是写 leetcode 上的解题思路
